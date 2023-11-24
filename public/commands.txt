@@ -1,0 +1,31 @@
+How are you Jarvis
+
+play games like :-
+->Snake game
+->hangman
+->tic tac toe
+->word scramble
+->mind game easy
+->mind game hard
+->rock paper scissors
+
+open close apps like :-
+->Notepad
+->instagram
+->Calculator
+->Clock
+->whatapp
+->youtube
+->camera
+->videos
+->gallery
+->Powershell
+->chrome
+
+Search for (What you want to search) on google
+Search for (What you want to search) on youtube
+
+tell the weather near by me
+check my battery percentage
+
+and ask any question
