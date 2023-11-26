@@ -468,7 +468,7 @@ app.get('/makeaudio', (req, res) => {
 
 app.get('/downloadfile', (req, res) => {
   // Replace 'file.txt' with the name of your static file
-  const fileName = 'public\\commands.txt';
+  const fileName = 'commands.txt';
   const filePath = path.join(__dirname, fileName);
 
   // Set headers to force download
