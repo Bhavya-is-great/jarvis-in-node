@@ -442,7 +442,7 @@ app.get('/snakegame',(req,res)=>{
 });
 
 app.get('/rockpaperscissor',(req,res)=>{
-  res.sendFile(path.join(__dirname,'Games\\Rock Paper Scissors\\index.html'));
+  res.sendFile(path.join(__dirname,'Games/Rock Paper Scissors/index.html'));
 });
 
 app.get('/numbergusser',(req,res)=>{
